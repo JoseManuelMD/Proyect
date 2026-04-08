@@ -17,8 +17,9 @@ Un programa interactivo en Python que visualiza cómo funcionan 5 diferentes alg
   - Conteo de movimientos realizados
 
 - **Arquitectura Modular:**
-  - `algorithsm` - Implementación de algoritmos
-  - `utils` - Orden de algoritmos
+  - `algorithsms.py` - Implementación de algoritmos
+  - `utils.py` - Orden de algoritmos
   - `linked_list_base.py` - Clase base de lista ligada
   - `main.py` - Menú principal e interfaz
+  - `visualizer.py` - limpieza de pantalla y salida gráfica
     
